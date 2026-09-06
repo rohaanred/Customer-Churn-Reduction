@@ -1,0 +1,11 @@
+customer_id,company_name,plan_type,monthly_revenue,features_used,tenure_days,support_tickets,last_login_days,churned
+1,Acme Corp,Enterprise,5000,7,365,2,1,0
+2,TechStart Inc,Pro,1200,2,45,8,30,1
+3,Global Solutions,Enterprise,8000,9,730,1,2,0
+4,SmallBiz LLC,Basic,500,1,30,12,60,1
+5,Innovate Co,Pro,2400,4,180,5,7,0
+6,DataFlow Inc,Enterprise,6500,8,540,3,3,0
+7,QuickServe,Basic,600,2,60,10,45,1
+8,Prime Tech,Pro,1800,3,90,7,21,1
+9,Summit Corp,Enterprise,7200,6,270,4,5,0
+10,Base Startup,Basic,400,1,14,15,90,1
